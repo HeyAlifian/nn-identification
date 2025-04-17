@@ -9,6 +9,7 @@
         "wassup",
         "sup",
         "yo",
+        "hi",
         "greetings",
         "salutations",
         "good afternoon",
@@ -22,6 +23,8 @@
         "goodbye",
         "bye",
         "see you",
+        "cya",
+        "gtg",
         "farewell",
         "take care",
         "good night",
@@ -50,7 +53,13 @@
         "how's your family",
         "what's good",
         "how's work",
-        "how's school"
+        "how's school",
+        "where is it",
+        "where is that",
+        "who are you",
+        "who is it",
+        "is that",
+        "is it"
       ],
       "appreciation": [
         "thank you",
@@ -98,7 +107,9 @@
         "you're incredible",
         "bravo",
         "hats off to you",
-        "you're a star"
+        "you're a star",
+        "your eyes are cool",
+        "your art is amazing"
       ],
       "agreements": [
         "I agree",
