@@ -177,6 +177,3 @@ while True:
         break
     prediction = classifier.predict(user_input)
     print(f"Predicted category: {prediction}")
-
-    if prediction == "greeting":
-        print("Lyne: Hello! How can I assist you today?")
