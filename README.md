@@ -1,5 +1,6 @@
 # nn-identification
 Text identification using trained neural network or machine learning python. Still WIP, expect any bugs or errors occured, thank you!
+The model takes up to 2-5 minutes to train according to the given configurations, inputs, or sample data. You can check on the 'sample_data.json' for a more detailed sample data that the model uses.
 
 - <b>Available Labels or Categories:</b>
     - Greeting
