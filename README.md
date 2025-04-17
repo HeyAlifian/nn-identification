@@ -1,5 +1,5 @@
 # nn-identification
-Text identification using trained neural network or machine learning python. Still WIP, expect any bugs or errors occured, thank you.
+Text identification using trained neural network or machine learning python. Still WIP, expect any bugs or errors occured, thank you!
 
 - <b>Available Labels or Categories:</b>
     - Greeting
@@ -12,7 +12,7 @@ Text identification using trained neural network or machine learning python. Sti
     - Request
     - Emotional_Expression
 
-# Required Packages
+### Required Packages
 To install the necessary packages, try:
 ```bash
 pip install -r requirements.txt
