@@ -19,3 +19,7 @@ To install the necessary packages, try:
 pip install -r requirements.txt
 ```
 It will automatically installs all the necessary packages inside the 'requirements.txt' including the numpy and scikit-learn.
+
+
+## Note
+If you ever wanted to add even more sample data inside the json file, make sure you deleted the current trained model '.pkl' file. Because when the current trained model file is not deleted, it raises an error. Meaning you have to delete the trained model file.
